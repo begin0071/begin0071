@@ -13,7 +13,7 @@
 </div>
 <br />
 <div>
-  <h3 style="font-weight: bold;">What do i do ❓</h3>
+  <h3 style="font-weight: bold;">Who am i ❓</h3>
   Greetings! I'm Mugees Khaki, an ardent creator, thrilled by the art of crafting. My journey into the realm of coding commenced in March 2022 at Inver Hills Community College, and subsequently, I embarked on an exceptional full-stack web development program at the esteemed University of Minnesota. As a versatile developer, I possess expertise in web development, object-oriented programming, and possess a penchant for innovative design. However, coding isn't the sole essence of my being! When I'm not engrossed in the digital realm, I wholeheartedly embrace the wonders of the great outdoors. Thrilling pursuits like hiking, camping, and fishing invigorate my spirit and keep my creative juices flowing. Oh, and have I mentioned my passion for filmmaking? Immortalizing awe-inspiring moments with my reliable drone and crafting captivating videos is another aspect I thoroughly enjoy. So, I invite you to delve into my portfolio and experience the joy and enthusiasm that permeates every project I undertake. Let's embark on an extraordinary journey of creation together!<br>
 </div>
 <br />
