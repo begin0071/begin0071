@@ -9,9 +9,9 @@
     <li><a href="https://github.com/begin0071/tech-blog">Tech Blog</a></li>
     <li>🧑‍💻</li>
   </ul>
+ 
 </div>
 <br />
-<h2 style="font-weight: bold;">Full Stack Web Developer</h2>
 <div>
   <h3 style="font-weight: bold;">What do i do ❓</h3>
   Hey there! I am Mugees Khaki, and I absolutely love creating things. My coding journey began in March 2022 at Inver Hills Community College, and later, I transferred to the University of Minnesota for an amazing full-stack web development program. I'm a versatile developer with a background in web development, object-oriented programming, and a flair for unique design. But hey, it's not all about coding for me! When I'm not immersed in the digital world, you'll find me embracing the great outdoors. I'm all about exciting activities like hiking, camping, and fishing. Nature fuels my spirit and keeps my creativity flowing. Oh, and did I mention my love for filming? I enjoy capturing incredible moments with my trusty drone and creating snappy, delightful videos. So, take a moment to explore my portfolio and discover the joy and enthusiasm I bring to every project. Let's make something awesome together!<br>
@@ -25,10 +25,6 @@ Programming languages: JavaScript, HTML, CSS, SQL</li>
     <li>Frameworks: React, Node.js, Express.js</li>
      <li>Databases: MongoDB, MySQL</li>
       <li>Version control: Git</li>
-   
-  
-      
-    </ul>
   </ul>
 </div>
 <br />
