@@ -33,13 +33,13 @@ Programming languages: JavaScript, HTML, CSS, SQL</li>
   <h3 style="font-weight: bold;">Feel free to message me</h3>
   <ul style="list-style-type: none">
     <div style="display: flex; align-items: center;">
-      <img style="width: 20px; margin-right: 5px" src="./icons/linkedin.png" />
+     
       <span>
         <a href="https://www.linkedin.com/in/mugeeskhaki/">linkedin.com/in/mugeeskhaki</a>
       <span>
     </div>
     <div style="display: flex; align-items: center;">
-      <img style="width: 20px; margin-right: 5px" src="./icons/gmail.png" />
+    
       <span>
         <a href="mailto:m.khaki610@gmail.com">m.khaki610@gmail.com</a>
       <span>
