@@ -1,7 +1,7 @@
 <h1>Hello, I am <a href="https://www.linkedin.com/in/mugeeskhaki/">Mugees (Khaki)</a></h1>
 <h2 style="font-weight: bold;">Full Stack Software Engineer</h2>
 <div>
-  <summary style="font-weight: bold;">Some of my projects</summary>
+  <summary style="font-weight: bold;">Some of my projects:</summary>
   <ul>
     <li><a href="https://github.com/christopher211/money-tracker">Spend Sense</a></li>
     <li><a href="https://github.com/zachshouts/music-web-app">Music Web App</a></li>
@@ -28,18 +28,13 @@ Programming languages: JavaScript, HTML, CSS, SQL</li>
   </ul>
 </div>
 <br />
-<h2 style="font-weight: bold;">Contact Me 📞</h2>
+<h2 style="font-weight: bold;">Contact ME</h2>
 <div>
   <h3 style="font-weight: bold;">Feel free to message me</h3>
-  <ul style="list-style-type: none">
-    <div style="display: flex; align-items: center;">
-     
       <span>
         <a href="https://www.linkedin.com/in/mugeeskhaki/">linkedin.com/in/mugeeskhaki</a>
       <span>
     </div>
-    <div style="display: flex; align-items: center;">
-    
       <span>
         <a href="mailto:m.khaki610@gmail.com">m.khaki610@gmail.com</a>
       <span>
