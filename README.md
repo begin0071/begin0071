@@ -1,4 +1,4 @@
-<h1>Hello, I am <a href="https://www.linkedin.com/in/mugeeskhaki/">Mugees (Khaki)</a></h1>
+<h1>Hello, I am <a href="https://www.linkedin.com/in/mugeeskhaki/">Mugees Khaki</a></h1>
 <h2 style="font-weight: bold;">Full Stack Software Engineer</h2>
 <div>
   <summary style="font-weight: bold;">Some of my projects:</summary>
